@@ -2,12 +2,8 @@
 ## Hey, I'm Yves!!!
 ## I'm just a man trying to make our lives better with technology.
 
-<div>
-  <a href="https://github.com/yvesoliveira23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yvesoliveira23&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesoliveira23&layout=compact&langs_count=6&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell"/>
-</div>
- 
+[![Yves GitHub stats](https://github-readme-stats.vercel.app/api?username=yvesoliveira23&layout=compact&langs_count=6&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell)](https://github.com/yvesoliveira23/github-readme-stats)
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/fluency/240/null/swift.png"/>
    <img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/color/240/000000/c-sharp-logo-2.png"/> 
