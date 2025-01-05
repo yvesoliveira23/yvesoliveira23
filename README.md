@@ -2,7 +2,7 @@
 ## Hey, I'm Yves!!!
 ## I'm just a man trying to make our lives better with technology.
 
- <div>
+<div>
   <a href="https://github.com/yvesoliveira23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yves-oliveira&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=6&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell,C,Objective-C,Swift"/>
@@ -23,7 +23,7 @@
   <a href = "mailto:yves.oliveira@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/yves-oliveira/yves-oliveira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yvesoliveira23/yvesoliveira23/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
