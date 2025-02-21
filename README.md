@@ -1,6 +1,8 @@
 
 ## Hey, I'm Yves!!!
-## iOS Developer | Swift & SwiftUI Expert | Backend Experience with Node.js | Passionate about Clean Code & Accessibility | Open Source Contributor
+
+## iOS Developer | Swift, SwiftUI & Vapor | Full-Stack Experience | Clean Architecture & Accessibility Advocate | Open Source Contributor
+
 
 [![Yves GitHub stats](https://github-readme-stats.vercel.app/api?username=yvesoliveira23&layout=compact&langs_count=6&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell)](https://github.com/yvesoliveira23/github-readme-stats)
 
